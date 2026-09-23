@@ -1,0 +1,13 @@
+name: horiba-flim-viewer
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - h5py
+  - matplotlib
+  - pyqt=5.15
+  - tifffile
