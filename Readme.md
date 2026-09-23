@@ -34,6 +34,8 @@ so each stack frame is one spatial image at a single TCSPC bin.
 
 ## Installation
 
+Download repository as .zip and extract or clone repository using git.
+
 Use andaconda prompt, bash, terminal or similar.
 Navigate to folder with the script and yml file (this repository).
 
