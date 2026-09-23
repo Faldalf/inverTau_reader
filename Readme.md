@@ -12,14 +12,7 @@ This tool supports export of the loaded file to .tiff (intensity and fastFLIM im
 - Intensity image
 - HORIBA lifetime image
 - Mean photon arrival image
-- Linked FLIM colour LUTs
-- Intensity Vmin/Vmax controls
-- Intensity thresholding of FLIM and phasor data
-- Overall and ROI TCSPC decays
-- Overall and ROI phasor plots
-- Image-space ROI selection
-- Phasor-space ROI selection
-- Optional spatial median filtering of phasor G/S data
+- Overall and ROI TCSPC decays and phasors
 - TIFF export of intensity and lifetime images
 - Fiji/ImageJ-compatible FLIM TCSPC stack export
 
@@ -58,7 +51,7 @@ conda activate horiba-flim-viewer
 Run the viewer:
 
 ```bash
-python inverTau_read_h5_minimal_v05.py
+python inverTau-viewer.py
 ```
 
 ## Controls
