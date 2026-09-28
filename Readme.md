@@ -1,5 +1,6 @@
 # HORIBA InverTau FLIM HDF5 Viewer
 
+
 Small Python viewer for quick inspection of FLIM datasets exported from a **HORIBA InverTau laser scanning microscope** as `.h5` / `.hdf5` files.
 
 Prepared for a demo at the **University of Warwick, 22–23 September 2026**.
