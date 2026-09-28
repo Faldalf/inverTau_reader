@@ -33,6 +33,8 @@ microtime × Y × X
 
 so each stack frame is one spatial image at a single TCSPC bin.
 
+Please note: At present it does not read FLIMera files (coming soon). 
+
 ## Installation
 
 Download repository as .zip and extract or clone repository using git.
